@@ -82,9 +82,11 @@ video{
     box-shadow: 1px 10px 20px lightgray;
 }
 
-.sfocatura{
-    color: rgba(110, 108, 108, 0.5);
-    font-weight: bold;
+.autore{
+    display: block;
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    margin-top: 1rem;
 }
 
 td {
@@ -113,9 +115,6 @@ section{
     line-height: 150%;
 }
 
-.spazio{
-    letter-spacing: 3px;
-}
 
 .link{
     color: rgb(52, 161, 163);
